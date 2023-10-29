@@ -8,3 +8,10 @@ Before running the script, you need to install the required library. You can ins
 
 ```bash
 pip install moviepy
+
+## Usage
+To use this script, simply place all the .mp4 files you want to convert in the same directory. Then, run the following command:
+
+```bash
+python your_script.py
+
