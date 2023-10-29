@@ -10,7 +10,7 @@ from moviepy.editor import *   # pip install moviepy
 
 
 
-# 將mp4轉mp3
+# convert mp4 to mp3
 def MP4ToMP3(mp4, mp3):
     FILETOCONVERT = AudioFileClip(mp4)
     FILETOCONVERT.write_audiofile(mp3)
@@ -23,12 +23,12 @@ mp4_files = [f for f in os.listdir(os.path.dirname(__file__)) if f.endswith(".mp
 
 
 
-# 當前路徑
+# current path
 path = os.path.dirname(__file__)
 
 
 
-# 創建mp3資料夾
+# create a folder named "mp3_file"
 folder_path = path + "\\mp3_file"
 
 if os.path.exists(folder_path):
