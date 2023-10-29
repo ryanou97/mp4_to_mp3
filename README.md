@@ -17,3 +17,5 @@ To use this script, simply place all the .mp4 files you want to convert in the s
 python your_script.py
 ```
 
+## Simple flow chart
+https://app.heptabase.com/w/cb5cd95591cd009e7449ec97b2bd5567af682bf2a2cb81bc468aa5e2722c91a2
