@@ -16,6 +16,8 @@ To use this script, simply place all the .mp4 files you want to convert in the s
 ```bash
 python your_script.py
 ```
+And mp3converter.exe is the exe file I packaged. It should be usable directly on win10 and 11 systems.
 
 ## Simple flow chart
 https://app.heptabase.com/w/cb5cd95591cd009e7449ec97b2bd5567af682bf2a2cb81bc468aa5e2722c91a2
+
